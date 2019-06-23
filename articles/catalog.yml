@@ -1,0 +1,11 @@
+PREDEF:
+  - preface.re
+
+CHAPS:
+  - article-1.re
+  - article-2.re  
+
+APPENDIX:
+
+POSTDEF:
+  - contributors.re
