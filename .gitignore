@@ -1,0 +1,6 @@
+#PDF,EPUBファイルは除外
+*.pdf
+*.epub
+
+#テンプレートPDFは除外
+!/articles/Misoton-ReVIEW-Template.pdf
