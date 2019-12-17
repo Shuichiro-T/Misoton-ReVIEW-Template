@@ -12,7 +12,6 @@
 2. Dockerをインストールする
 
 
-
 ## このリポジトリをダウンロードする
 [こちら](https://github.com/Shuichiro-T/Misoton-ReVIEW-Template/archive/master.zip)
 
