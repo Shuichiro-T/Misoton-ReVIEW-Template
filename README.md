@@ -1,6 +1,8 @@
 # Misoton-ReVIEW-Template
 サークル「味噌とんトロ定食」用　Re;Viewテンプレートです。
 
+[TechBoosterさんのリポジトリ](https://github.com/TechBooster/ReVIEW-Template)をカスタマイズして使っています。
+
 # 使い方
 ## Docker環境を整える
 1. Docker IDを作成する
